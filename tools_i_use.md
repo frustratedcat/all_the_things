@@ -20,14 +20,14 @@
 
 ### Coding Stuff
 - Neovim (I build it from source. Current version as of this writing is version 11)
-    - Check my [dotfiles](https://github.com/frustratedcat/dotfiles/tree/main/nvim) repo for my neovim config
+    - Check out my [dotfiles](https://github.com/frustratedcat/dotfiles/tree/main/nvim) repo for my neovim config
 - VSCode (on work computer because WSL does not like when I try to build neovim from source and my neovim config requires version 8.0... Debian currently is still at version 7.2... The current neovim version as of writing this is version 11...)
 
 ### Other Software
-- Syncthing
-- Veracrypt
-- Calibre
-- KeepassXC
-- GIMP (which I legit don't know how to use, but I make covers for my fiction stories with it)
-- LibreOffice
-- LibreWolf (which I just started using)
+- Syncthing - for syncing files between my devices computers and phone
+- Veracrypt - for encryption
+- Calibre - for ebook stuff such as converting file types or removing DRM from my personal books
+- KeepassXC - Password management on linux and windows
+- KeepassDX - Android password maangement
+- GIMP - I legit don't know how to use gimp, but I make covers for my fiction stories with it
+- LibreOffice - Writing
