@@ -7,10 +7,11 @@
     - I run mint on a Framework 12 laptop, which I absolutely don't recommend. Avoid Framework, they're a horrible value
 - Debian
     - I run Debian on:
-        - My old HP laptop from graduate school
         - My parent's old desktop computer from the stone ages
-        - WSL on my Windows 10 computer
-        - WSL on my Windows 11 work computer
+        - WSL2 on my Windows 10 computer
+        - WSL2 on my Windows 11 work computer
+- Arch
+    - I run arch on my old HP laptop from grdauate school
 - Ubuntu
     - I run Ubuntu on my Surface Pro 7. I think the dev project behind this build is called Surface Linux
 - Windows 10
@@ -19,15 +20,15 @@
     - I run Windows 11 on my Dell work computer
 
 ### Coding Stuff
-- Neovim (I build it from source. Current version as of this writing is version 11)
+- Neovim
     - Check out my [dotfiles](https://github.com/frustratedcat/dotfiles/tree/main/nvim) repo for my neovim config
-- VSCode (on work computer because WSL does not like when I try to build neovim from source and my neovim config requires version 8.0... Debian currently is still at version 7.2... The current neovim version as of writing this is version 11...)
 
 ### Other Software
 - Syncthing - for syncing files between my devices computers and phone
 - Veracrypt - for encryption
 - Calibre - for ebook stuff such as converting file types or removing DRM from my personal books
 - KeepassXC - Password management on linux and windows
-- KeepassDX - Android password maangement
-- GIMP - I legit don't know how to use gimp, but I make covers for my fiction stories with it
+- KeepassDX - Android password management
+- GIMP - covers for stories I write
 - LibreOffice - Writing
+- Sqlite3 - databases
